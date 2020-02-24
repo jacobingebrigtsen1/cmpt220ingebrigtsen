@@ -8,6 +8,7 @@ public class Problem5
 	}
 	public static void main(String[] args)
 	{
+		// JA: You had to get the numbers from the user
 		System.out.println(average(2.5,6.1,8.6));
 	}
 }

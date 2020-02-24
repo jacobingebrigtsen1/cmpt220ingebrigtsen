@@ -19,6 +19,6 @@ public class Problem6
 	{
 		Scanner input = new Scanner(System.in);
 	    System.out.println("Enter a word and we shall return the # of vowels");
-		System.out.println(vowels(input.next()));
+		System.out.println(vowels(input.nextLine())); // JA: nextLine() reads the complete line
 	}
 }
