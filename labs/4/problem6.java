@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+// JA: ??
 public class problem6
 {
 	public static void main(String [ ] args)
