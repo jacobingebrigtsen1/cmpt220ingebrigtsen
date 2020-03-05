@@ -1,6 +1,8 @@
 package classy;
 import java.util.Scanner;
 import java.util.Arrays;
+
+// JA: Comments? Screenshot of Kattis?
 public class classyproblem
 {
 	public static void main(String [ ] args)
