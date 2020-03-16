@@ -33,12 +33,12 @@ public class problem2
 		{
 			total+=x[i];
 		}
-		double mean= (total/x.length);
+		double mean= (total/x.length); // JA: Use the mean method
 		double total2=0;
 		for(int i=0;i<x.length;i++)
 		{
 			total2+=((x[i]*x[i])-mean);
 		}
-		return Math.sqrt(total2/x.length);
+		return Math.sqrt(total2/(x.length - 1)); // JA
 	}
 }

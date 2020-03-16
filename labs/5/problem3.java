@@ -11,11 +11,11 @@ public class problem3
 		String[] array=new String[totalstudents];
 	    for(int i=0;i<totalstudents;i++)  //takes the the word and reverses it
 	    	{
-	    		  System.out.println("Enter a student and grade like so 3.71Jacob");
+	    		  System.out.println("Enter a student and grade like so 3.71Jacob"); 
 	    		  nameinput=input.next();
 	    		  array[i]=nameinput;
 	    	}
-	    Arrays.sort(array);
+	    Arrays.sort(array); // You should had used two arrays
 	    for(int i=0;i<totalstudents;i++)
 	    {
 	    	System.out.println(array[i]);
