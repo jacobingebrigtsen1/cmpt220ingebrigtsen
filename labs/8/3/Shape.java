@@ -1,5 +1,6 @@
-package project8;
+//package project8;
 
+// JA: Your classes are empty
 public class Shape {
 
 }
