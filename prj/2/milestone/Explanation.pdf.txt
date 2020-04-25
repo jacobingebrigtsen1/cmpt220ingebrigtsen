@@ -1,0 +1,4 @@
+Hey Professor Arias , I decided to switch from Tetris to brick breaker. Its still much more complicated then I anticipated. I am learning alot through this though so i guess thats the objective. So far I am making 5 objectives paddle,
+ball , brick , game , and screen. I followed a tutorial online on how to set up the screen and now im learning how to set up the blocks and program the physicics into the game. I know i can do this more efficently so thats what im
+going to try and deliver in my final project. Also I had alot of trouble actually getting "time" to work to track the amount of ticks so i learned how to do that from a guide online as well. Overall this project is pretty 
+fulfilling and I hope its complex enough for the project. I hope this reaches you in good health , and ill  be trying to visit you during office hours for lab 9.
