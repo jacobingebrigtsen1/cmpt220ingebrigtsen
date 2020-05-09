@@ -15,6 +15,7 @@ if (args.length != 4) {
  System.exit(2);
  }
 // Create a Scanner for input and a PrintWriter for output
+// JA: You have to read the file first before opening it up for writing.
 Scanner input = new Scanner(sourceFile);
 PrintWriter output = new PrintWriter(sourceFile);
 while (input.hasNext()) {
